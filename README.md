@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechXDataBro and I'm a Data Analyst.
-- 👀 I’m interested in learning Data Analytics and working on projects that extracts actionable insights from data.
-- 🌱 I’m currently learning Python, SQL, Power BI and Hopefully Machine Learning.
+- 👀 I’m interested in Data Analytics and working on projects that extracts actionable insights from data.
+- 🌱 I’m proficient in working with Python, SQL, and Power BI.
 - 💞️ I’m hoping to build a repository to showcase my skills, share my projects and document my journey in the Data Analytics/Data Science field. 
 - 📫 You can reach me via emmanueltbogun@gmail.com
 
